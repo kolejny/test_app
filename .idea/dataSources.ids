@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component name="dataSourceStorage">
+<<<<<<< HEAD
   <data-source source="LOCAL" name="Rails test_app: development" uuid="3bffc121-72d9-4a4f-8f5b-f1bc06578f6a">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
   <data-source source="LOCAL" name="Rails test_app: test" uuid="9eabbf28-3e45-444f-aee8-f542091d73ee">
+=======
+  <data-source source="LOCAL" name="Rails test_app: development" uuid="544b7b5c-f41c-4074-8960-056e0fe70383">
+>>>>>>> filling-in-layout
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
 </component>
